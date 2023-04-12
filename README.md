@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+<br/>
 <div align="center">
   <a href="https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_Bill_Detect_Project/fake-bill-detection.ipynb">
     <img src="https://assets.losspreventionmedia.com/uploads/2019/07/counterfeit-money-1280x720.jpg">
@@ -42,14 +42,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Fake bills may have serial numbers that are not evenly spaced or that are not perfectly aligned in a row. If you received multiple suspicious bills, see if the serial numbers are the same on both bills. If they are the same, then they are counterfeit notes.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -59,9 +57,6 @@ Fake bills may have serial numbers that are not evenly spaced or that are not pe
 * [matplotlib](http://matplotlib.org/)
 * [seaborn](https://seaborn.pydata.org/)
 * [scikit-learn](http://scikit-learn.org/stable/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
