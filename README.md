@@ -12,24 +12,6 @@
   </p>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -38,12 +20,12 @@ Fake bills may have serial numbers that are not evenly spaced or that are not pe
 
 Idea of projects with this dataset:
 
-- Predicting the missing values with a linear regression or a KNN imputer
+-Predicting the missing values with a linear regression or a KNN imputer
 
-- Comparing classification such as logistic regression or KNN with an unsupervised model such as K-Means to predict the authenticity of the bills
+-Comparing classification such as logistic regression or KNN with an unsupervised model such as K-Means to predict the authenticity of the bills
 
-- Trying to do a PCA or a Kernel Transform to create a clearer separation between the Genuine and Fake Bills
-- 
+-Trying to do a PCA or a Kernel Transform to create a clearer separation between the Genuine and Fake Bills
+
 
 ### Built With
 
