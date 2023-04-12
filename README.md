@@ -70,7 +70,7 @@ Idea of projects with this dataset:
 <!-- CONTACT -->
 ## Contact
 
-Prakash Waghmare - <a href="prakashwaghmare7083@gmail.com">Mail</a>
+Prakash Waghmare - <a href="prakashwaghmare7083@gmail.com">prakashwaghmare7083@gmail.com</a>
 
 Project Link: [Fake Bills Detection](https://github.com/github_username/repo_name)
 
