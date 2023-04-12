@@ -5,10 +5,9 @@
     <img src="https://assets.losspreventionmedia.com/uploads/2019/07/counterfeit-money-1280x720.jpg">
   </a>
 
-<h1 align="center">Genuine or Fake Bills Detection</h1>
+<h1 align = "center">Genuine or Fake Bills Detection</h1>
 
-  <p align="center">
-    This institution aims to put in place methods for identifying counterfeit euro banknotes.
+  <p>This institution aims to put in place methods for identifying counterfeit euro banknotes.
     They therefore call on you, a data specialist, to set up a model that would be able to automatically identify the real ones from the fake ones.
     And this simply from certain dimensions of the banknote and theelements that compose it.
     <br/>
