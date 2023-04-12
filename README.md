@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_Bill_Detect_Project/fake-bill-detection.ipynb">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flosspreventionmedia.com%2F8-ways-to-spot-counterfeit-          money%2F&psig=AOvVaw0yltNeoPall3YAGYgcPSQz&ust=1681387826709000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCFovOnpP4CFQAAAAAdAAAAABAE" alt="Logo" width="80"     height="80">
   </a>
 
 <h3 align="center">Genuine or Fake Bills Detection</h3>
@@ -10,14 +10,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name">Streamlit App For Detect Genuine or Fake Bills</a>
   </p>
 </div>
 
@@ -42,8 +35,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
