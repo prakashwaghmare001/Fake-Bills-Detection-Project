@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_Bill_Detect_Project/fake-bill-detection.ipynb">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flosspreventionmedia.com%2F8-ways-to-spot-counterfeit-          money%2F&psig=AOvVaw0yltNeoPall3YAGYgcPSQz&ust=1681387826709000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCFovOnpP4CFQAAAAAdAAAAABAE" alt="Logo" width="80"     height="80">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flosspreventionmedia.com%2F8-ways-to-spot-counterfeit-          money%2F&psig=AOvVaw0yltNeoPall3YAGYgcPSQz&ust=1681387826709000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMCFovOnpP4CFQAAAAAdAAAAABAE" alt="Logo" width="800"     height="800">
   </a>
 
 <h3 align="center">Genuine or Fake Bills Detection</h3>
