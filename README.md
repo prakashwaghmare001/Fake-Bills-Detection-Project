@@ -7,9 +7,9 @@
 
 <h1 align="center">Genuine or Fake Bills Detection</h1>
 
-  <p align="center">This institution aims to put in place methods for identifying counterfeit euro banknotes. They therefore call on you, a data specialist, to set
-    up a model that would be able to automatically identify the real ones from the fake ones. And this simply from certain dimensions of the banknote and the
-    elements that compose it.
+  <p align="center">This institution aims to put in place methods for identifying counterfeit euro banknotes.
+    They therefore call on you, a data specialist, to set up a model that would be able to automatically identify the real ones from the fake ones.
+    And this simply from certain dimensions of the banknote and theelements that compose it.
     <br />
     <a href="https://github.com/github_username/repo_name">Genuine or Fake Bills App</a>
   </p>
