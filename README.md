@@ -4,7 +4,7 @@
   <a href="https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_Bill_Detect_Project/fake-bill-detection.ipynb">
     <img src="https://assets.losspreventionmedia.com/uploads/2019/07/counterfeit-money-1280x720.jpg">
   </a>
-
+</div>
 <h1 align = "center">Genuine or Fake Bills Detection</h1>
 
   <p>This institution aims to put in place methods for identifying counterfeit euro banknotes.They therefore call on you, a data specialist, to set up a model that would be able to automatically identify the real ones from the fake ones.And this simply from certain dimensions of the banknote and theelements that compose it.
@@ -12,7 +12,6 @@
    <br/>
     <a href="https://github.com/github_username/repo_name">Genuine or Fake Bills App</a>
   </p>
-</div>
 
 
 
