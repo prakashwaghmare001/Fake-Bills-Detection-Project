@@ -52,6 +52,6 @@ Idea of projects with this dataset:
 <!-- CONTACT -->
 ## Contact
 
-Prakash Waghmare - <a href="prakashwaghmare7083@gmail.com">prakashwaghmare7083@gmail.com</a>
+Prakash Waghmare - <a href="prof.prakash001@gmail.com">prof.prakash001@gmail.com</a>
 
-Project Link: [Fake Bills Detection](https://github.com/github_username/repo_name)
+Project Link: [Fake Bills Detection](https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_Bill_Detect_Project/fake-bill-detection.ipynb)
