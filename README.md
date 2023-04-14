@@ -55,16 +55,3 @@ Idea of projects with this dataset:
 Prakash Waghmare - <a href="prakashwaghmare7083@gmail.com">prakashwaghmare7083@gmail.com</a>
 
 Project Link: [Fake Bills Detection](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
