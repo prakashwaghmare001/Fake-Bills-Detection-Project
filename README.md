@@ -60,6 +60,6 @@ Linkedin : (https://www.linkedin.com/in/prakash-waghmare-798017269/)
 
 Project Link : [Genuine or Fake Bill](https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_Bill_Detect_Project/fake-bill-detection.ipynb)
 
-App Link : [Genuine or Fake Bill App](pending)
+App Link : [Genuine or Fake Bill App](https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_bills_prediction_app/Fake_Bill_App.py)
 
 App Demo : (https://screenrec.com/share/ERDboLHMnx)
