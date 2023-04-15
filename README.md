@@ -56,7 +56,7 @@ Fake bills may have serial numbers that are not evenly spaced or that are not pe
 
 Mail : [prof.prakash001@gmail.com](prof.prakash001@gmail.com)
 
-Linkedin : [Linkedin](https://www.linkedin.com/in/prakash-waghmare-798017269/)
+Linkedin : [https://www.linkedin.com/in/prakash-waghmare-798017269/](https://www.linkedin.com/in/prakash-waghmare-798017269/)
 
 Project Link : [Genuine or Fake Bill](https://github.com/prakashwaghmare001/Fake-Bills-Detection-Project/blob/main/Fake_Bill_Detect_Project/fake-bill-detection.ipynb)
 
