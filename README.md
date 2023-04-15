@@ -54,7 +54,7 @@ Fake bills may have serial numbers that are not evenly spaced or that are not pe
 <!-- CONTACT -->
 ## Contact
 
-Mail : (prof.prakash001@gmail.com)
+Mail : [prof.prakash001@gmail.com](prof.prakash001@gmail.com)
 
 Linkedin : (https://www.linkedin.com/in/prakash-waghmare-798017269/)
 
