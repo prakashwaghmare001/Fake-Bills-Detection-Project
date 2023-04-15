@@ -14,11 +14,13 @@
 
 <!-- ABOUT THE PROJECT -->
 
+
 ## About The Project
 
 Fake bills may have serial numbers that are not evenly spaced or that are not perfectly aligned in a row. If you received multiple suspicious bills, see if the serial numbers are the same on both bills. If they are the same, then they are counterfeit notes.
 
-Idea of projects with this dataset:
+
+## Idea of projects with this dataset:
 
 * Predicting the missing values with a linear regression or a KNN imputer
 
