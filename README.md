@@ -62,6 +62,6 @@ Project Link : [Genuine or Fake Bill](https://github.com/prakashwaghmare001/Fake
 
 App Link : [Genuine or Fake Bill App](pending)
 
-## Genuine or Fake Bill App Demo
+## Genuine or Fake Bill App
 
 https://screenrec.com/share/ERDboLHMnx
